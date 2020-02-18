@@ -1,0 +1,23 @@
+{
+	"dirBaseCheckout": "E:/Desenvolvimento/Repositorios/git/",
+	"pathPomBase": "E:/Desenvolvimento/Repositorios/git/oobj-dfe-legado/pom.xml",
+	"mavenHome": "",
+	"goals": [
+		"clean",
+		"install",
+		"-q",
+		"-Dmaven.test.skip=true"
+	],
+	"localRepository": {
+		"hasToClean": "false",
+		"maxAgeFiles": 30,
+		"path": "e:/Desenvolvimento/Ferramentas/MavenRepository/repository/br/com/oobj"
+	},
+	"modules": [
+		"oobj-corporativo",
+		"oobj-dfe-api",
+		"oobj-dfe-legado",
+		"oobj-dfe-core"
+	],
+	"throwFailure": "true"
+}
