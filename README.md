@@ -53,5 +53,5 @@ The configurations are made via json file. See an example:
 
 ### TODO list
 
-* Use json file to configure the roles to filter old files to be removed.
+* Use json file to configure the rules to filter old files to be removed.
 
